@@ -81,8 +81,8 @@ Embedded Linux-style project turning a BeagleBone Black into an ARM RetroArch co
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HargunS7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HargunS7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HargunS7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=HargunS7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
