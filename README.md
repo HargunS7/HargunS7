@@ -10,17 +10,18 @@
 
 <p align="center">
   <a href="mailto:hargun3574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email%20Me-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/hargun-singh1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/HargunS7">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
