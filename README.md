@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:hargun3574@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/hargun-singh1/"></a>
+  <a href="https://www.linkedin.com/in/hargun-singh1/">
   <a href="https://github.com/HargunS7"></a>
 </p>
 
