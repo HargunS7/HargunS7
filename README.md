@@ -9,9 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hargun3574@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
+  <a href="mailto:hargun3574@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" />
+  </a>
+
   <a href="https://www.linkedin.com/in/hargun-singh1/">
-  <a href="https://github.com/HargunS7"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/HargunS7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
