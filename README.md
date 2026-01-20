@@ -136,13 +136,7 @@ Embedded Linux-style project turning a BeagleBone Black into an ARM RetroArch co
 ## 🏆 Achievements / Certifications
 - [CCNA: Enterprise Networking, Security & Automation](https://drive.google.com/file/d/1iTJAiCuXQwlV8pRdP6E3tR64j3iXTlc-/view)
 - [IT Fundamentals for Cybersecurity](http://coursera.org/account/accomplishments/specialization/BAOU5SM4D61B)
-- [Deep Learning (PyTorch / Keras / Tensorflow)](https://www.coursera.org/account/accomplishments/specialization/RWWEGCNQ4NA8utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-
----
-
-## 🤝 Let’s Connect
-📩 Email: **hargun3574@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/hargun-singh1/**  
+- [Deep Learning (PyTorch / Keras / Tensorflow)](https://www.coursera.org/account/accomplishments/specialization/RWWEGCNQ4NA8utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)  
 
 ---
 
