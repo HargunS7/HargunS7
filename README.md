@@ -83,7 +83,6 @@ Embedded Linux-style project turning a BeagleBone Black into an ARM RetroArch co
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Supabase)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -92,7 +91,6 @@ Embedded Linux-style project turning a BeagleBone Black into an ARM RetroArch co
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
