@@ -17,18 +17,6 @@
   </a>
 </p>
 
-
-
----
-
-## 🚀 Current Project: Momento (Event Management System)
-
-✅ Full-stack platform enabling users to request events & admins to review/approve/manage/publish  
-✅ Designed end-to-end workflow: **request → review → decision → publish**  
-✅ Built with security-first design using **Supabase Row Level Security (RLS)**
-
-**Tech:** React • Node.js/Express • Supabase (Postgres) • REST APIs • Git
-
 ---
 
 ## 🧠 Featured Engineering Work
