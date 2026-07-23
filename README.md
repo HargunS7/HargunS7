@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://hargun-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-hargun--dev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:hargun3574@gmail.com">
     <img src="https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -77,12 +80,11 @@ BeagleBone Black, Debian, Docker, RetroArch, Linux debugging
 
 ## Stack
 
-**Languages:** Java, C++, Python, JavaScript, Solidity
-**Backend:** Node.js, Express, Spring Boot, Prisma
-**Databases:** PostgreSQL, MongoDB
-**Blockchain:** Hyperledger Besu, Ethereum, Hardhat
-**ML:** scikit-learn, pandas
-**Infra:** Git, Docker, GitHub Actions, AWS EC2, Linux
+Day to day I work in **Node.js/Express** with **PostgreSQL** and **Prisma**, containerized with **Docker**, deployed on **AWS EC2** and Vercel. Auth work is JWT and RBAC. Most of what I've shipped lives here.
+
+**Also worked in:** Python (the ML detection pipeline: scikit-learn, pandas), Solidity and Hardhat against Hyperledger Besu, Java and Spring Boot from coursework and interview prep, C++, MongoDB.
+
+**Comfortable with:** Linux, Git, GitHub Actions, cross-compilation for ARM.
 
 ---
 
