@@ -5,7 +5,7 @@
 
 <p align="center">
   I build backends for access control and security telemetry. Most of my recent work has been on IAM systems, permissioned blockchain, and anomaly detection.<br/>
-  Just finished a research internship on insider-threat detection at National Formosa University, Taiwan.
+  Just finished a research internship at National Formosa University, Taiwan. My first-author paper from it was accepted at ICEA 2026 (ACM ICPS).
 </p>
 
 <p align="center">
@@ -24,14 +24,15 @@
 
 ## Work
 
-### Blockchain-Based Insider-Threat Detection (NFU Taiwan, research internship)
+### Behavior-Aware Access Control and Anomaly Detection (NFU Taiwan, research internship)
 
-A permissioned blockchain with access-control enforcement, behavioral telemetry, and unsupervised ML on top.
+A permissioned blockchain with access-control enforcement, behavioral telemetry, and ML-based anomaly detection on top.
 
-- Ran a 5-node private Ethereum network (Hyperledger Besu, QBFT) with access policies enforced in smart contracts: role-scoped operation sets, approval gates on high-value transfers, admin-only account freezes
+- Ran a 4-node private Ethereum network (Hyperledger Besu, QBFT) with access policies enforced in smart contracts: role-scoped operation sets, approval gates on high-value transfers, admin-only account freezes
 - Emitted structured behavioral events from the contracts (actor, role, operation, outcome, timestamp) into a detection pipeline
-- Used Isolation Forest and Local Outlier Factor to flag anomalies. The interesting part was how badly both degrade on low-history profiles (under 100 ops) compared to profiles with 1000+
-- Co-authored a paper on the system, currently under review
+- Compared global and per-user models on low-history (~750 events) and high-history (~2,800 events) profiles. Global models mostly learned transaction size (anomaly F1 0.66), per-user Isolation Forest failed under class imbalance, and supervised per-user models with relative features reached precision 1.00 and recall 0.50 in a diagnostic evaluation
+- Caught temporal data leakage behind near-perfect early scores and removed time-derived features from the pipeline
+- First author of *Behavior-Aware Access Control and Transaction Anomaly Detection in a Private Ethereum-Based Financial System*, accepted at [ICEA 2026](https://icea-conf.github.io/2026/) (to appear in ACM ICPS proceedings)
 
 Hyperledger Besu, Solidity, QBFT, Python, scikit-learn, ethers.js
 
