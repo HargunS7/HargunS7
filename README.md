@@ -33,6 +33,7 @@ A permissioned blockchain with access-control enforcement, behavioral telemetry,
 - Compared global and per-user models on low-history (~750 events) and high-history (~2,800 events) profiles. Global models mostly learned transaction size (anomaly F1 0.66), per-user Isolation Forest failed under class imbalance, and supervised per-user models with relative features reached precision 1.00 and recall 0.50 in a diagnostic evaluation
 - Caught temporal data leakage behind near-perfect early scores and removed time-derived features from the pipeline
 - First author of *Behavior-Aware Access Control and Transaction Anomaly Detection in a Private Ethereum-Based Financial System*, accepted at [ICEA 2026](https://icea-conf.github.io/2026/) (to appear in ACM ICPS proceedings)
+- [Recommendation letter from Prof. Ming-Shen Jian](https://hargun-dev.vercel.app/letters/Hargun-Singh-Recommendation-NFU.pdf)
 
 Hyperledger Besu, Solidity, QBFT, Python, scikit-learn, ethers.js
 
